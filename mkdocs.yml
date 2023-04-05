@@ -1,3 +1,4 @@
 site_name: SUMO Bus Priority Measure Simulator
+
 theme:
-  name: mkdocs
+  name: readthedocs
