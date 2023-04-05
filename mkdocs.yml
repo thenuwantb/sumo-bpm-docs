@@ -3,16 +3,29 @@ site_name: SUMO Bus Priority Measure Simulator
 nav:
     - Home: index.md
     - About: test_page.md
+    - Publications: publications.md
+    - Workshops: workshops.md
+markdown_extensions:
+  - tables
 
 theme:
   name: material
   nav_style: dark
 
+# Plugins
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: true
+
 extra:
   social:
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com/thenuwantb
+    - icon: fontawesome/brands/researchgate
+      link: https://www.researchgate.net/profile/Thenuwan-Jayasinghe
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@knowmaga592
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/thenuwanjayasinghe/
+
+copyright: Copyright &copy; 2023 Thenuwan Jayasinghe
+
+
