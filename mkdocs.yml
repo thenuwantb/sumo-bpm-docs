@@ -13,9 +13,6 @@ theme:
   nav_style: dark
 
 # Plugins
-plugins:
-  - git-revision-date-localized:
-      enable_creation_date: true
 
 extra:
   social:
