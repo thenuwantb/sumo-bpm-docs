@@ -1,4 +1,18 @@
 site_name: SUMO Bus Priority Measure Simulator
 
+nav:
+    - Home: index.md
+    - About: test_page.md
+
 theme:
-  name: readthedocs
+  name: material
+  nav_style: dark
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/thenuwantb
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@knowmaga592
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/thenuwanjayasinghe/
