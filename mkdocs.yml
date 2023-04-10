@@ -5,6 +5,7 @@ nav:
     - About: test_page.md
     - Publications: publications.md
     - Workshops: workshops.md
+    - Tutorials: Tutorials.md
 markdown_extensions:
   - tables
 
